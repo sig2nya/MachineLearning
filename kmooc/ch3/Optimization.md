@@ -6,7 +6,8 @@ Optimization
 Optimization Problem
 ====================
  - 정의 : 함수 f(x)의 값을 최대화 / 최소화 하는 x를 찾는 문제</br>
-   <img width="520" alt="image" src="https://user-images.githubusercontent.com/70207093/209456333-5a476c20-6ef7-40a5-b95a-09d7112a68f2.png">
+   <img width="520" alt="image" src="https://user-images.githubusercontent.com/70207093/209456333-5a476c20-6ef7-40a5-b95a-09d7112a68f2.png"></br>
+   <img width="256" alt="image" src="https://user-images.githubusercontent.com/70207093/210164400-d7580447-7b5b-4500-8811-57c41b71e945.png">
  - How to : 최대 / 최소값을 만족하는 가능한 x의 값을 모두 대입 -> Cost 발생이 큰 단점이 있으며, f(x, y, ... )과 같이 다변수 함수의 경우 불가능 -> Numerical Optimization 필요
 
 Numerical Optimization

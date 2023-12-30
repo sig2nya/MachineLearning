@@ -25,3 +25,5 @@ print(arr6[0, 1])
 print(arr6[0, :])
 print(arr6[:, 0:2]
 ```
+
+<img width="376" alt="image" src="https://github.com/sig2nya/MachineLearning/assets/70207093/569847aa-fbdd-44fc-be40-521329872554">
